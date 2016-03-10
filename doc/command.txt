@@ -1,0 +1,5 @@
+##生成java文件的命令
+thrift-0.9.3.exe -gen java HelloService.thrift
+##网上学习网站
+#demo
+http://blog.csdn.net/m13321169565/article/details/7836006
